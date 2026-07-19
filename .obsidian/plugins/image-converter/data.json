@@ -116,10 +116,10 @@
     {
       "name": "webp+resize",
       "outputFormat": "WEBP",
-      "quality": 100,
+      "quality": 75,
       "colorDepth": 1,
       "resizeMode": "Width",
-      "desiredWidth": 800,
+      "desiredWidth": 1200,
       "desiredHeight": 600,
       "desiredLongestEdge": 1000,
       "enlargeOrReduce": "Reduce",
@@ -132,7 +132,7 @@
       "ffmpegPreset": "medium"
     }
   ],
-  "selectedConversionPreset": "WEBP (75, no resizing)",
+  "selectedConversionPreset": "webp+resize",
   "globalPresets": [
     {
       "name": "WebP 75",
@@ -141,9 +141,17 @@
       "conversionPreset": "WEBP (75, no resizing)",
       "linkFormatPreset": "Default (Wikilink, Shortest)",
       "resizePreset": "Default (No Resize)"
+    },
+    {
+      "name": "webp73 resize500",
+      "folderPreset": "Default (Obsidian setting)",
+      "filenamePreset": "Notename+Imagename",
+      "conversionPreset": "webp+resize",
+      "linkFormatPreset": "Default (Wikilink, Shortest)",
+      "resizePreset": "Width 500px"
     }
   ],
-  "selectedGlobalPreset": "WebP 75",
+  "selectedGlobalPreset": "webp73 resize500",
   "linkFormatSettings": {
     "linkFormatPresets": [
       {
@@ -176,7 +184,7 @@
       {
         "name": "Width 500px",
         "resizeDimension": "width",
-        "width": 500,
+        "width": 400,
         "resizeScaleMode": "auto",
         "respectEditorMaxWidth": true,
         "maintainAspectRatio": true,
@@ -245,13 +253,13 @@
   "singleImageModalSettings": {
     "conversionPresetName": "WEBP (75, no resizing)",
     "outputFormat": "WEBP",
-    "quality": 62,
+    "quality": 75,
     "colorDepth": 1,
-    "resizeMode": "Fit",
-    "desiredWidth": 800,
+    "resizeMode": "Width",
+    "desiredWidth": 1200,
     "desiredHeight": 600,
     "desiredLongestEdge": 1000,
-    "enlargeOrReduce": "Auto",
+    "enlargeOrReduce": "Reduce",
     "allowLargerFiles": false,
     "pngquantExecutablePath": "",
     "pngquantQuality": "65-80",
