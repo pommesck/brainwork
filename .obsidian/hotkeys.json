@@ -25,5 +25,14 @@
       ],
       "key": "V"
     }
-  ]
+  ],
+  "editor:insert-table": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "workspace:new-tab": []
 }

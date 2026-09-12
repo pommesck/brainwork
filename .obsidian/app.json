@@ -1,8 +1,8 @@
 {
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Anhänge",
+  "attachmentFolderPath": "content/attachements",
   "showUnsupportedFiles": true,
   "newLinkFormat": "relative",
   "newFileLocation": "folder",
-  "newFileFolderPath": "Notizen"
+  "newFileFolderPath": "content"
 }

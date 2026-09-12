@@ -13,7 +13,7 @@ tags: [excalidraw]
 Zunächst diese Hebel aus dem Weg drehen, dann Gitter einsetzen und Hebel wieder zudrehen ^RwnPcnTh
 
 ## Embedded Files
-0c7599aa601c53814937bffcec00278e797cf51c: [[../Anhänge/IMG_6461.webp]]
+0c7599aa601c53814937bffcec00278e797cf51c: [[../attachements/IMG_6461.webp]]
 
 %%
 ## Drawing

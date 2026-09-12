@@ -13,7 +13,7 @@ tags: [excalidraw]
 Nach rechts schieben, dann nach links unten ^RPge0bJ2
 
 ## Embedded Files
-c1f40d2f4a0e86d6b229fed6dc0c3e789af86ee4: [[../Anhänge/IMG_6463.webp]]
+c1f40d2f4a0e86d6b229fed6dc0c3e789af86ee4: [[../attachements/IMG_6463.webp]]
 
 %%
 ## Drawing

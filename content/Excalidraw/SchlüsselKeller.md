@@ -11,9 +11,9 @@ tags: [excalidraw]
 
 ## Text Elements
 ## Embedded Files
-5efa8a59f1b1a8b7aff620c76643092191dd4cf5: [[../Anhänge/IMG_6506_0.webp]]
+5efa8a59f1b1a8b7aff620c76643092191dd4cf5: [[../attachements/IMG_6506_0.webp]]
 
-283c4789a85574473e4ea123bd285a58cd1bef28: [[../Anhänge/IMG_6505_0.webp]]
+283c4789a85574473e4ea123bd285a58cd1bef28: [[../attachements/IMG_6505_0.webp]]
 
 %%
 ## Drawing

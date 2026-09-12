@@ -479,7 +479,13 @@ export async function loadQuartzConfig(
     builtinPlugins.Assets(),
     builtinPlugins.Static(),
   ]
-  const builtinPageTypes = [builtinPlugins.PageTypes.NotFoundPageType()]
+  const builtinPageTypes = [
+  			  builtinPlugins.PageTypes.LandingPageType(),
+  			  builtinPlugins.PageTypes.NotFoundPageType(),
+  			  builtinPlugins.PageTypes.VermietungLandingPageType(),  			  
+    			  builtinPlugins.PageTypes.VermietungRundgangPageType(),  
+    			  builtinPlugins.PageTypes.VermietungBuchungPageType(),
+  			  ]
 
   const plugins: PluginTypes = {
     transformers: [...builtinTransformers, ...(await instantiate(transformers, "transformer"))],

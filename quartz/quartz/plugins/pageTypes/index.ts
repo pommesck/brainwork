@@ -1,3 +1,7 @@
 export { match } from "./matchers"
 export { NotFoundPageType } from "./404"
 export { PageTypeDispatcher } from "./dispatcher"
+export { LandingPageType } from "./landing"
+export { VermietungLandingPageType } from "./vermietung-landing"
+export { VermietungRundgangPageType } from "./vermietung-rundgang"
+export { VermietungBuchungPageType } from "./vermietung-buchung"

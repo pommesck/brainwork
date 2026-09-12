@@ -215,8 +215,8 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        Impressum: /impressum
+        Datenschutz: /datenschutz
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
@@ -273,3 +273,23 @@ layout:
         right: []
     canvas: {}
     bases: {}
+    landing:
+      positions:
+        beforeBody: []
+        left: []
+        right: []
+    vermietung-landing:
+      positions:
+        beforeBody: []
+        left: []
+        right: []
+    vermietung-rundgang:
+      positions:
+        beforeBody: []
+        left: []
+        right: []
+    vermietung-buchung:
+      positions:
+        beforeBody: []
+        left: []
+        right: []
