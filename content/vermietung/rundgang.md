@@ -44,167 +44,202 @@ Hinweise für dich (vor Veröffentlichung entfernen):
 
 ## Anfahrt
 
-[Text ergänzen]
+Wenn ihr dies hier seht, habt ihr die [[Anreise]] bereits geschafft.10 m hinter der Eisenbahnbrücke durch die Schmale Lücke in der Leitplancke. Achtung, rangiert lieber einmal mehr.
 
-![[rundgang-anfahrt-1.jpg]]
-
+![[../attachements/rundgang-Brücke.webp]]
 ## Eingang
 
 
 
-[Text ergänzen]
+Vor dem grünen Tor könnt ihr [parken](Parken). Bitte nur ein Auto. Die anderen Parkplätze sind für die Nachbarn.
 
 
-![[../attachements/Rundgang/IMG_6154.jpg]]
+![[../attachements/rundgang Parkplatz.webp]]
 
-![[../attachements/Rundgang/IMG_6155.jpg]]
+![[../attachements/rundgang/IMG_6154.webp]]
+
+Den Weg nutzen die Nachbarn (ca 3 Pateien), um zu ihren Grundstücken zu gelangen. 
+
+![[../attachements/rundgang/IMG_6155.webp]]
 
 
-![[../attachements/Rundgang/IMG_6156.jpg]]
+![[../attachements/rundgang/IMG_6156.webp]]
 
-![[../attachements/Rundgang/IMG_6157.jpg]]
+![[../attachements/rundgang/IMG_6157.webp]]
 
 
 
 ## Wohnanhänger
 
-[Text ergänzen: kurzer Satz zum Vorbeikommen]
+Ein einfacher Wohnanhänger bietet zwei Liegeflächen. Die anderen Komponenten des Wohnanhängers (Herd, Toilette, Heizung sind derzeit leider noch nicht in Funktion)
 
-> [!stop] Zum Wohnanhänger
-> ![[rundgang-wohnanhaenger-1.jpg]]
-> ![[rundgang-wohnanhaenger-2.jpg]]
->
-> [Text ergänzen: ausführlicherer Text zum Raum]
+
+![[../attachements/rundgang-Wohnanhänger3.webp]]
+
+![[../attachements/rundgang-Wohnanhänger1.webp|400x533]]
+
+![[../attachements/rundgang-Wohnanhänger2.webp|462]]
+
+![[../attachements/rundgang-Wohnanhänger4.webp|462]]
+
+
+![[../attachements/rundgang-Wohnanhänger5.webp]]
+
+
+![[../attachements/rundgang-Wohnanhäger4.webp|400x300]]
+![[../attachements/rundgang/IMG_6165.webp]]
+
+
 
 ## Platz unter den Apfelbäumen / Aufenthaltsraum
 
-Ich habe es nicht geschafft, den Fernseher am Balkon zum Laufen zu kriegen. Probiere es gerne aus. Die Fernbedienungen liegen am Fernseher rum.Ich habe es nicht geschafft, den Fernseher am Balkon zum Laufen zu kriegen. Probiere es gerne aus. Die Fernbedienungen liegen am Fernseher rum.
+Der Platz unter den Apfelbäumen ist derzeit eher noch Abstellfläche. Soll aber mal ein schöner Aufenthaltsbereich werden
 
-![[../attachements/Rundgang/IMG_6159.jpg]]
-
-
-![[../attachements/Rundgang/IMG_6160.jpg]]
+![[../attachements/rundgang/IMG_6159.webp]]
 
 
-![[../attachements/Rundgang/IMG_6161.jpg]]
+![[../attachements/rundgang/IMG_6160.webp]]
 
 
-![[../attachements/Rundgang/IMG_6165.jpg]]
+![[../attachements/rundgang/IMG_6161.webp]]
 
+
+![[../attachements/rundgang/JVCO4070.webp]]
 
 
 ## Heulager
 
-[Text ergänzen: kurzer Satz zum Vorbeikommen]
+Schlafraum Nummer drei. Nichts besonderes, ich mag es dort. Ihn nutze auch ich, wenn ich im Garten übernachte.  Das Heulager ist ein einfach Raum, der eine gemütliche Atmosphäre hat, auch wenn er derzeit noch ein wenig Lagerraum ist.
 
-> [!stop] Zum Heulager
-> ![[rundgang-heulager-1.jpg]]
-> ![[rundgang-heulager-2.jpg]]
->
-> [Text ergänzen: ausführlicherer Text zum Raum]
+
+![[../attachements/rundgang/heulager.webp]]
+
+
+
 
 ## Teich, Rutsche und Wiese
 
-[Text ergänzen]
+[[Schwimmteich und Rutsche]] wurden im Jahr 2026 fertig gestellt. Kurz darauf waren bereits verschiedenste Tiere hier zu finden. Weiter gibt es so natürlich Aspekte, die nicht ganz optimal sind, um ihn als Schwimmteich zu nutzen.
 
-![[../attachements/Rundgang/IMG_6166.jpg]]
-
-
-![[../attachements/Rundgang/IMG_6167.jpg]]
+![[../attachements/rundgang/IMG_6166.webp]]
 
 
-![[../attachements/Rundgang/IMG_6171.jpg]]
+![[../attachements/rundgang/IMG_6167.webp]]
 
 
-![[../attachements/Rundgang/IMG_6172.jpg]]
+![[../attachements/rundgang/IMG_6171.webp]]
 
 
-![[../attachements/Rundgang/IMG_6173.jpg]]
+![[../attachements/rundgang/IMG_6172.webp]]
 
 
-![[../attachements/Rundgang/IMG_6174.jpg]]
+![[../attachements/rundgang/IMG_6173.webp]]
 
 
-![[../attachements/Rundgang/IMG_6175.jpg]]
+![[../attachements/rundgang/IMG_6174.webp]]
+
+
+![[../attachements/rundgang/IMG_6175.webp]]
+
+
 ## Toilette (unten)
 
-[Text ergänzen]
+Ein Toilettenplatz im Grünen. Französischer Still - zum Hinhocken.
 
-![[rundgang-toilette-unten-1.jpg]]
+![[../attachements/rundgang-Toiletteunten1.webp|400x533]]
 
+
+![[../attachements/rundgang-Toiletteunten2.webp|400x533]]
 ## Der Hang
 
-[Text ergänzen – Übergang vom unteren in den oberen Gartenbereich]
+Eine Treppe oder ein Serpentinenweg führt den Hang hoch.
 
-![[../attachements/Rundgang/IMG_6176.jpg]]
+![[../attachements/rundgang/IMG_6176.webp]]
 
 
-![[../attachements/Rundgang/IMG_6177.jpg]]
+![[../attachements/rundgang/IMG_6177.webp]]
 
 
 
 ## Dusche
 
-[Text ergänzen]
+Die Fässer rechts sind das Duschwasserreservoir. Entweder kann der Gartenschlauch oder die kleine Gartendusche zum Duschen genutzt werden.  Perspektivisch entsteht hier ein kleiner Spabereich mit Warmwasserbecken.
 
-![[../attachements/Rundgang/IMG_6178.jpg]]
-
-
-![[../attachements/Rundgang/IMG_6180.jpg]]
+![[../attachements/rundgang/IMG_6178.webp]]
 
 
+![[../attachements/rundgang-Dusche.webp|400x533]]
+
+
+![[../attachements/rundgang/ODVAE7545.webp]]
+
+## Tinyhouse (außen)
+
+Im Keller des kleinen Häusschens befindet sich links ein kleiner Abstellraum und rechts eine kleine Werkstatt. Neben dem Haus befindet sich der Speicher für das [[Wasser zum Trinken]]
+
+
+![[../attachements/rundgang Haus.webp]]
+
+
+![[../attachements/rundgang HausTreppe.webp]]
 
 
 
-
-## Tinyhouse
-![[../attachements/Rundgang/IMG_6182.jpg]]
+![[../attachements/rundgang/IMG_6180.webp]]
 
 
-[Text ergänzen: kurzer Satz zum Vorbeikommen]
+![[../attachements/rundgang/IMG_6182.webp]]
 
-![[../attachements/Rundgang/IMG_6183.jpg]]
-> [!stop] Zum Tinyhouse
-> ![[rundgang-tinyhouse-1.jpg]]
-> ![[rundgang-tinyhouse-2.jpg]]
->
-> [Text ergänzen: ausführlicherer Text zum Raum]
+
+## Tinyhouse (innen)
+
+Der geschütze Balkon lädt zum Draußenessen bei jedem Wetter ein. Im Haus habt ihr eine Küchenzeile mit allerlei Gerätschaft und ein Schlafbereich (abtrennbar mit Vorhang).
+
+![[../attachements/rundgang/IMG_6183.webp]]
+
+![[../attachements/rundgang-hausinnen1.webp]]
+
+![[../attachements/rundgang-hausinnen2.webp]]
+
+![[../attachements/rundgang-hausinnen3.webp]]
+
+
 
 ## Terrasse
 
 [Text ergänzen]
 
-![[../attachements/Rundgang/IMG_6184.jpg]]
+![[../attachements/rundgang/IMG_6184.webp]]
 
 
-![[../attachements/Rundgang/IMG_6185.jpg]]
+![[../attachements/rundgang/IMG_6185.webp]]
 
 
-![[../attachements/Rundgang/IMG_6186.jpg]]
+![[../attachements/rundgang/IMG_6186.webp]]
 
 
-![[../attachements/Rundgang/IMG_6187.jpg]]
+![[../attachements/rundgang/IMG_6187.webp]]
 
 
-![[../attachements/Rundgang/IMG_6188.jpg]]
+![[../attachements/rundgang/IMG_6188.webp]]
 
 ## Toilette (oben)
 
-[Text ergänzen]
+Trenntoilette. Kot geht in einen Eimer. 
 
-![[../attachements/Rundgang/IMG_6189.jpg]]
+![[../attachements/rundgang/IMG_6189.webp]]
+
+![[../attachements/rundgang/IMG_6450.webp]]
 
 
 ## Blick ins Tal
 
-[Text ergänzen]
+Rundherum seid ihr in bewaldetem Gebiet. In alle Richtungen könnt ihr Wanderwege entdecken. Die Hügel rundum Jena sind allesamt Naturschutzgebiete.
 
-![[rundgang-blick-tal-1.jpg]]
+![[../attachements/rundgang-TalBlick1.webp]]
+
+![[../attachements/rundgang-TalBlick2.webp|400x225]]
 
 ## Umgebung
 
 [Text ergänzen – hier können mehrere Fotos rein]
-
-![[rundgang-umgebung-1.jpg]]
-![[rundgang-umgebung-2.jpg]]
-![[rundgang-umgebung-3.jpg]]

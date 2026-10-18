@@ -44,16 +44,15 @@ Hinweise für dich (vor Veröffentlichung entfernen):
 <section class="vermietung-pricing">
   <h2>Preise</h2>
   <table>
-    <tr><td>Mai, Juni, Juli, August</td><td> 70 € / Nacht bis 2 Personen</td></tr>
-    <tr><td>übrige Zeit</td><td>50 € / Nacht bis 2 Personen</td></tr>
+    <tr><td>für die ersten 2 Gäste</td><td>50 € bis 83€ / Nacht </td></tr>
     <tr><td>pro Person ab 3. Gast</td><td> 13 €</td></tr>
     <tr><td>Endreinigung</td><td>25 €</td></tr>
 	<tr><td>Alternativ</td><td> Airbnb Preis um 7,75% reduziert</td></tr>
     <tr><td>Feuerholz</td><td> nach Verbrauch, 5€/12dm </td></tr>
 	<tr><td>Bettwäsche</td><td> 5€ pro Bett, 2€ für 2. Decke</td></tr>
+	<tr><td>Haustiere</td><td> 13€ / Tier </td></tr>
   </table>
 </section>
-
 ## Fragen oder Buchungswunsch?
 
 <div class="vermietung-cta"> <a href="mailto:C.krich@gmx.de?subject=Buchungsanfrage%20Friend%27s%20Retreat" class="cta-kontakt"> Anfrage schreiben </a> </div>

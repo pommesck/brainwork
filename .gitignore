@@ -45,6 +45,8 @@ quartz/yarn-error.log*
 
 # Originalbilder (werden später separat verwaltet)
 Anhänge/
+# attachements/
+Anhänge (Kopie)/
 
 ###############################################################################
 # Python

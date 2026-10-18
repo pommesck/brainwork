@@ -32,7 +32,7 @@ frame: minimal
 </div>
 
 <section class="garden-about">
-  <div class="garden-about__photo" style="background-image: url('/static/portrait.jpg');"></div>
+<div class="garden-about__photo" style="background-image: url('attachements/portrait.webp');"></div>
   <div class="garden-about__line"></div>
   <div class="garden-about__text">
     <p>Ich schaffe Räume, die zugleich Orientierung und Entdeckung erlauben.</p>

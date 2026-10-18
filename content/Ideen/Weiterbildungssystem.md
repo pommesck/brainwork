@@ -1,0 +1,11 @@
+- keine starre Vorgabe von Kursinhalten
+- Coaching zum Selbstlernen
+- KI als Sparingspartner, um Ideen zu entwickeln und zu prüfen
+	- --> Lernen des Umgangs mit KI
+	- --> vermutlich relevanteste Softskillschulung - sich selbst befähigen
+- Austausch/Sparing in Gruppe oder 1:1 (mit Menschen) - vom Erfahrungsschatz anderer Lernen - Emotionale Anschlussfähigkeit
+- an besonderen/schönen Orten
+	- --> gemeinsames Entwickeln der Orte
+- Offen für verschiedenste Gruppen
+	- Arbeitslose, zweiter Arbeitsmarkt, Auszubildende, Neuorientierung, Auszeit, Führungskräfte Entwicklung
+- Schaffung von Strukturen für SpinOff/StartUp Entwicklung

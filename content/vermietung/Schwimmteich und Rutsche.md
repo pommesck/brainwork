@@ -12,10 +12,11 @@ title:
 Bei Nutzung:
 Wie mit allem anderen hier, geht bitte sorgsam mit dem Teich und der Rutsche um. 
 Achtet darauf, die Folie nicht zu beschädigen. ZB.: Durch unachtsames Auftreten auf einem sich im Wasser befindenden kleinen Stein, der dann die Folie beschädigt. 
+Bitte tretet nicht auf Umrandungen/Abgrenzungen des Bachlaufes. Bitte nicht die Aufschüttungen und die Pflanzbereiche betreten
 
 Vorgehen:
-- Rutschbahn von von großen Gegenständen wie Ästen, Tannenzapfen, Steinen säubern, und einmal Auswegen, so dass der Dreck nicht in das Wasser gelangt. 
-- Prüfen, ob die 'Dreckabscheidungsrinne am unteren Ende der Bahn frei ist'
+- Rutschbahn von großen Gegenständen wie Ästen, Tannenzapfen, Steinen säubern, und einmal Auswegen, so dass der Dreck nicht in das Wasser gelangt. 
+- Prüfen, ob die 'Dreckabscheidungsrinne am unteren Ende der Bahn frei ist', ggf. säubern. 
 - Prüft vorab: liegen Objekte im Weg, ist der Landebereich im Wasser frei - auch in der Tiefe? 
 - Haltet beim Rutschen Hände und Arme innerhalb der Bahn. 
 - Beim Rutschen nicht versuchen, euch festzuhalten (Verletzungsgefahr durch die Schrauben auf dem Rand). 
