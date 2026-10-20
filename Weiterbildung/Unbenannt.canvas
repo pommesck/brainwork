@@ -4,7 +4,7 @@
 		{"id":"02d0ed1f49a144c2","type":"file","file":"Weiterbildung/53_N_22 P1.md","x":625,"y":-294,"width":400,"height":304,"color":"4"},
 		{"id":"4b26254feeced8f6","type":"file","file":"Weiterbildung/53_N_22 P2.md","x":625,"y":28,"width":400,"height":400,"color":"4"},
 		{"id":"10796d44eacf9d47","type":"file","file":"Weiterbildung/53_N_22 P3.md","x":625,"y":488,"width":400,"height":344,"color":"4"},
-		{"id":"0de22bcbdaaffda9","type":"file","file":"Weiterbildung/Struktur Org.md","x":-920,"y":-613,"width":400,"height":2073},
+		{"id":"0de22bcbdaaffda9","type":"file","file":"Weiterbildung/Struktur Org.md","x":-2320,"y":-613,"width":400,"height":2073},
 		{"id":"14b11b63dd7d023d","type":"file","file":"Weiterbildung/Thermolyt Steckbrief.md","x":-860,"y":-2000,"width":400,"height":400},
 		{"id":"3bb0bed3f1bca070","type":"file","file":"Weiterbildung/12_Org_07 Inhalte.md","x":20,"y":-1760,"width":1360,"height":720,"color":"3"},
 		{"id":"9634ae4130ccc3c5","type":"file","file":"Weiterbildung/12_Org_06 Inhalte.md","x":20,"y":-2520,"width":1360,"height":720,"color":"2"},
@@ -20,7 +20,6 @@
 		{"id":"6721ae70d7805a34","type":"file","file":"Weiterbildung/12_Org_06 W1.md","x":-20,"y":-260,"width":400,"height":200,"color":"2"},
 		{"id":"5dd5bc8cbb500450","type":"file","file":"Weiterbildung/12_Org_06 P1.md","x":-20,"y":104,"width":400,"height":198,"color":"2"},
 		{"id":"8cd73db0489b1553","type":"file","file":"Weiterbildung/12_Org_07 W1.md","x":-465,"y":280,"width":400,"height":189,"color":"3"},
-		{"id":"dfbe3adf2a7c579d","type":"file","file":"Weiterbildung/12_Org_06 P2.md","x":-465,"y":469,"width":400,"height":185,"color":"2"},
 		{"id":"63b627ddb53cf7da","type":"file","file":"Weiterbildung/12_Org_06 W3.md","x":-20,"y":877,"width":400,"height":200,"color":"2"},
 		{"id":"3925fc490eb5d556","type":"file","file":"Weiterbildung/12_Org_07 W5.md","x":-20,"y":1120,"width":400,"height":200,"color":"3"},
 		{"id":"34b598caa85e942e","type":"file","file":"Weiterbildung/12_Org_06 W2.md","x":-465,"y":1120,"width":400,"height":200,"color":"2"},
@@ -42,7 +41,9 @@
 		{"id":"b281da1346f9a800","type":"file","file":"Weiterbildung/53_N_71 W3.md","x":1440,"y":1620,"width":400,"height":259,"color":"5"},
 		{"id":"9c9de93742238744","type":"file","file":"Weiterbildung/53_N_71 W4.md","x":1440,"y":1933,"width":400,"height":175,"color":"5"},
 		{"id":"0656e93739ab754e","type":"file","file":"Weiterbildung/53_N_71 W5.md","x":1440,"y":2220,"width":400,"height":160,"color":"5"},
-		{"id":"9c97d2209524d9e7","type":"file","file":"Weiterbildung/53_N_71 W6.md","x":1440,"y":2457,"width":400,"height":200,"color":"5"}
+		{"id":"9c97d2209524d9e7","type":"file","file":"Weiterbildung/53_N_71 W6.md","x":1440,"y":2457,"width":400,"height":200,"color":"5"},
+		{"id":"dfbe3adf2a7c579d","type":"file","file":"Weiterbildung/12_Org_06 P2.md","x":-465,"y":568,"width":400,"height":185,"color":"2"},
+		{"id":"14a4bb5bdd6a75db","x":-1860,"y":-613,"width":1340,"height":2496,"type":"text","text":"![[Weiterbildung/12_Org_07 P1]]\n\n![[Weiterbildung/12_Org_07 P2]]\n\n![[Weiterbildung/12_Org_07 W1|12_Org_07 W1]]\n"}
 	],
 	"edges":[]
 }
