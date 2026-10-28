@@ -813,14 +813,6 @@
       "wrap": false
     }
   },
-  "content/Excalidraw/Toilette.svg": {
-    "0d8201c02b2bc81fd9b7fcda580436a1": {
-      "position": "left",
-      "width": "",
-      "height": "",
-      "wrap": false
-    }
-  },
   "content/Anhänge (Kopie)/SkizzeParken.svg": {
     "24eebbc7e2c65d7579fe74ee5dea3219": {
       "position": "left",
@@ -2109,6 +2101,14 @@
   },
   "Excalidraw/Drawing 2026-09-07 22.50.08.excalidraw.svg": {
     "7dabf6b77541fba1da2c7e234e346875": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Weiterbildung/53_N_22 W1.md": {
+    "62d3176fb2914563bb921eaf2f8a330f": {
       "position": "left",
       "width": "",
       "height": "",

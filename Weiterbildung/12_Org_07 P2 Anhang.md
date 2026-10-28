@@ -71,8 +71,8 @@ Die PESTEL-Analyse beleuchtet die externen Rahmenbedingungen auf Makro-Ebene und
     - _Faktoren:_ Verpflichtung zur CO2-Reduktion (Scope 1 und 2), Schonung natürlicher Ressourcen, Kreislaufwirtschaft.
     - _Auswirkung:_ Die Kernkompetenz von Thermolyt (Abwärme-Aufwertung via Absorptionswärmepumpen) trifft exakt den ökologischen Zeitgeist; Nachhaltigkeit wird vom "Nice-to-have" zum geschäftskritischen Hygiene-Faktor.
 - **L – Legal (Rechtlich):**
-    - _Faktoren:_ Strengere Umwelt- und Immissionsschutzgesetze, Produkthaftungs- und Gewährleistungsanforderungen im komplexen Anlagengeschäft (im Gegensatz zu standardisierten Katalogprodukten), internationale Compliance- und Lieferkettenanforderungen.
-    - _Auswirkung:_ Das Anlagengeschäft birgt rechtlich völlig andere Risiken (Haftung für das Gesamtsystem, Schnittstellenkoordination) als der reine Bauteilverkauf.
+    - _Faktoren:_ Strengere Umwelt- und Immissionsschutzgesetze, Produkthaftungs- und Gewährleistungsanforderungen im komplexen Anlagengeschäft (im Gegensatz zu standardisierten Katalogprodukten), internationale Compliance- und Lieferkettenanforderungen. Muss abschließend geprüft werden, welche neu entstehenden Gesetze/Regularien tatsächlich Thermolyt betreffen.
+    - _Auswirkung:_ Das Anlagengeschäft birgt rechtlich völlig andere Risiken (Haftung für das Gesamtsystem, Schnittstellenkoordination) als der reine Bauteilverkauf. Weiter gibt es Kühlflüssigkeiten mit einem GWP. Auch die Einbindung neuer KI gestützter Software kann Auflagen bedeuten
         
 
 
